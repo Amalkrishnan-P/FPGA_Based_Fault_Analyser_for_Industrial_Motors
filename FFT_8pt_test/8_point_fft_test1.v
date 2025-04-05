@@ -1,4 +1,4 @@
- //basic module, higher pts ffts from instantiating this module
+//basic module, higher pts ffts from instantiating this module
  module _8pt_fft( x0, x1, x2, x3, x4, x5, x6, x7,X0_real, X1_real, X2_real, X3_real, X4_real, X5_real, X6_real, X7_real,X0_img,X1_img,X2_img,X3_img,X4_img,X5_img,X6_img,X7_img);
 
             //Inputs (time domanin points)
